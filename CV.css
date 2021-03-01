@@ -1,0 +1,98 @@
+#header {
+  height: 250px;
+  width: 85%;
+  background-color: #333f50;
+  padding: 10px;
+  margin: auto;
+}
+
+.name {
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 60px;
+  font-size: 40px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
+}
+.sob {
+  color: #c45911;
+}
+
+.email {
+  margin-top: -15px;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 22px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
+  
+}
+.phone {
+  text-align: center;
+  margin-left: 20px;
+  font-size: 22px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
+  margin-top: -15px;
+  
+}
+
+.container {
+  height: 210px;
+  width: 85%;
+  background-color: #ebebd3;
+  padding: 10px;
+  overflow: hidden;
+  margin: auto;
+}
+
+#intro {
+  height: 200px;
+  border-bottom: 2px solid #c45911;
+  background-color: #ebebd3;
+}
+img {
+  border-radius: 50%;
+}
+
+#about {
+  color: #383736;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#container2 {
+  height: 750px;
+  width: 85%;
+  background-color: #ebebd3;
+  padding: 10px;
+  overflow: hidden;
+  margin: auto;
+}
+.left {
+  float: left;
+  width: 600px;
+  padding-left: 25px;
+  border-right: 2px solid #c45911;
+}
+
+.right {
+  float: right;
+  width: 390px;
+  padding-left: 15px;
+  margin-right: 40px;
+}
+.edu {
+  text-align: left;
+  font-size: 36px;
+  color: #c45911;
+}
+.ins {
+  color: #383736;
+  font-weight: bold;
+  font-size: 20px;
+}
+.itemss {
+  line-height: 1.8;
+  font-size: larger;
+}
